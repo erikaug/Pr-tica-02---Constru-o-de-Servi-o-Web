@@ -84,9 +84,4 @@ Este projeto Java Spring Boot é destinado à integração com a Tabela FIPE, fo
 
 - Certifique-se de que as dependências Maven sejam baixadas antes de executar os projetos.
 - Ajuste as configurações no arquivo `application.properties` conforme necessário (ex.: conexões com bancos de dados ou integrações).
-- Para maiores detalhes, consulte os arquivos fonte ou os testes incluídos nos projetos.
-
----
-
-Se tiver dúvidas ou precisar de suporte, por favor, crie uma *issue* neste repositório ou entre em contato diretamente.
 
